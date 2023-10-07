@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img src="https://th.bing.com/th/id/R.571ee564df2f52ee111429aea8c686cd?rik=H%2fgsHQzOi7EkRg&pid=ImgRaw&r=0"  />
+  <img src="https://th.bing.com/th/id/R.571ee564df2f52ee111429aea8c686cd?rik=H%2fgsHQzOi7EkRg&pid=ImgRaw&r=0" height="150" alt="streak graph" />
 </div>
 
 ###
