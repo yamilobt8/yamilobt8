@@ -3,7 +3,7 @@
 ###
 
 <div align="center" style="text-align: center;">
-    <img src="https://th.bing.com/th/id/R.571ee564df2f52ee111429aea8c686cd?rik=H%2fgsHQzOi7EkRg&pid=ImgRaw&r=0" height="150" alt="streak graph" style="border-radius: 50%;" />
+    <img src="https://styles.redditmedia.com/t5_y8c63/styles/communityIcon_movzuhpncgq41.png" height="150" alt="streak graph" style="border-radius: 50%;" />
   </div>
 
 ###
