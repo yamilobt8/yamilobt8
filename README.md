@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Khalid Azaanoun. and I'm a Student in bacalaureat, from Morocco</h2>
-
 ###
 
 <div align="center" style="text-align: center;">
