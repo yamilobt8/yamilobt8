@@ -1,4 +1,4 @@
-<h3>Hi 👋! My name is Khalid Az. and I'm a Student at bacalaureat, from Morocco</h3>
+<h3>Hi 👋! My name is Khalid Az From Morocco</h3>
 <div align="center" style="text-align: center;">
     <img src="https://avatars.githubusercontent.com/u/123247514?s=400&u=3c2a2cc5e3b9f6ed00b2d11c524ae93957c1ffb0&v=4" height="150" alt="streak graph" style="border-radius: 50%;" />
 </div>
