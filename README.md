@@ -1,6 +1,6 @@
 <h3>Hi 👋! My name is Khalid Az From Morocco</h3>
 <div align="center" style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/123247514?s=400&u=3c2a2cc5e3b9f6ed00b2d11c524ae93957c1ffb0&v=4" height="150" alt="streak graph" style="border-radius: 50%;" />
+    <img src="path/to/WhatsApp Image 2024-10-05 at 19.17.36_23705052.jpg" alt="Description of the image" width="500">
 </div>
 
 <div align="center">
