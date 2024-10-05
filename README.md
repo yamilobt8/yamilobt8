@@ -1,8 +1,4 @@
 <h3>Hi 👋! My name is Khalid Az From Morocco</h3>
-<div align="center" style="text-align: center;">
-    <img src="path/to/WhatsApp Image 2024-10-05 at 19.17.36_23705052.jpg" alt="Description of the image" width="500">
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yamilobt8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=yamilobt8&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
