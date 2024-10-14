@@ -1,7 +1,7 @@
 <h3>Hi 👋! My name is Khalid Az From Morocco</h3>
 
 <p align="center">
-  <img src="/image.gif" alt="start is Landings"/>
+  <img src="/webdev.gif" alt="start is Landings"/>
 </p>
 <br>
 <div align="center">
