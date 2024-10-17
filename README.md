@@ -4,7 +4,7 @@
 <p align="center">
   <img src="/webdev.gif" alt="webdev"/>
 </p>
-<br>
+
 <h3 align="center">Stats:</h3>
 <p align="left">
   <a href="https://visitcount.itsvg.in">
