@@ -4,6 +4,13 @@
 <p align="center">
   <img src="/webdev.gif" alt="webdev"/>
 </p>
+<br>
+<h3 align="center">Stats:</h3>
+<p align="left">
+  <a href="https://visitcount.itsvg.in">
+    <img width="150px" src="https://visitcount.itsvg.in/api?id=yamilobt8&icon=2&color=6" alt="Visitor Count" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yamilobt8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -53,7 +60,5 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="/mrrobot.gif" alt="mr robot"/>
-</p>
+<img src="/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 <h3 align="center">"Coding is not just a skill, it's an art!"</h3>
