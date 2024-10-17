@@ -1,7 +1,8 @@
-<h3>Hi 👋! My name is Khalid Az From Morocco</h3>
+<h1 align="center">Hi 👋, I'm Khalid Az</h1>
+<h3 align="center">A passionate developer from Morocco</h3>
 
 <p align="center">
-  <img src="/mrrobot.gif" alt="start is Landings"/>
+  <img src="/webdev.gif" alt="webdev"/>
 </p>
 
 <div align="center">
@@ -10,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilobt8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt "languages graph"  />
 </div>
 
-
+<h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://www.instagram.com/yamilobt_8/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -52,3 +53,7 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="/mrrobot.gif" alt="mr robot"/>
+</p>
+<h3 align="center">"Coding is not just a skill, it's an art!"</h3>
