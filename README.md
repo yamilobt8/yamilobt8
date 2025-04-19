@@ -5,6 +5,10 @@
   <img src="/webdev.gif" alt="webdev"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yamilobt8&color=blueviolet" alt="GitHub Profile Views Counter" />
+</p>
+
 <h3 align="center">Stats:</h3>
 <p align="center">
   ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=yamilobt8&color=blueviolet)
