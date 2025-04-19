@@ -7,9 +7,7 @@
 
 <h3 align="center">Stats:</h3>
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img width="150px" src="https://visitcount.itsvg.in/api?id=yamilobt8&icon=2&color=6" alt="Visitor Count" />
-  </a>
+  ![](https://komarev.com/ghpvc/?username=yamilobt8&color=blueviolet)
 </p>
 
 <div align="center">
