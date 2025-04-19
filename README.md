@@ -10,10 +10,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yamilobt8&color=blueviolet" alt="GitHub Profile Views Counter" />
 </p>
+
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yamilobt8&show_icons=true&theme=radical&hide_border=true" />
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=yamilobt8&theme=radical&hide_border=true" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamilobt8&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff61af&text_color=c3e8fc&icon_color=c3e8fc" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamilobt8&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff61af&text_color=c3e8fc&icon_color=c3e8fc&theme=radical" />
 </div>
 
 <h3 align="center">Connect with me:</h3>
