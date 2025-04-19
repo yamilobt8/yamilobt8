@@ -7,7 +7,7 @@
 
 <h3 align="center">Stats:</h3>
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=yamilobt8&color=blueviolet)
+  ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=yamilobt8&color=blueviolet)
 </p>
 
 <div align="center">
