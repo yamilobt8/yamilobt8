@@ -13,7 +13,7 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yamilobt8&show_icons=true&theme=radical&hide_border=true" />
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=yamilobt8&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilobt8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&v=24" height="150" alt "languages graph"  />
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamilobt8&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff61af&text_color=c3e8fc&icon_color=c3e8fc)
 </div>
 
 <h3 align="center">Connect with me:</h3>
