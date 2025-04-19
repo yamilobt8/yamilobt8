@@ -5,15 +5,11 @@
   <img src="/webdev.gif" alt="webdev"/>
 </p>
 
+<h3 align="center">Stats:</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yamilobt8&color=blueviolet" alt="GitHub Profile Views Counter" />
 </p>
-
-<h3 align="center">Stats:</h3>
-<p align="center">
-  ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=yamilobt8&color=blueviolet)
-</p>
-
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yamilobt8&show_icons=true&theme=radical&hide_border=true" />
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=yamilobt8&theme=radical&hide_border=true" />
