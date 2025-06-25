@@ -1,7 +1,7 @@
 <h3 align="center">self-taught</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/5f/f4/58/5ff45883d083027e28142ce6fc48659d.gif" alt="Kirby eating" />
+  <img src="https://i.pinimg.com/originals/8b/fe/70/8bfe706cfe0d2f2f47775e07e2690ef5.gif" alt="Kirby eating" />
 </p>
 
 <h3 align="center">Stats:</h3>
