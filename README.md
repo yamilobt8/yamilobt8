@@ -1,7 +1,7 @@
 <h3 align="center">self-taught programer</h3>
 
 <p align="center">
-  <img src="/webdev.gif" alt="webdev"/>
+  ![Kirby eating](![Loading animation](https://i.pinimg.com/originals/fc/fc/56/fcfc56695dc6cd7a3f3e92cb575eb4f2.gif))
 </p>
 
 <h3 align="center">Stats:</h3>
