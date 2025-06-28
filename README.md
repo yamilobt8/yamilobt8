@@ -1,7 +1,7 @@
 <h3 align="center">self-taught</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" alt="Kirby eating an endless stream of data" width="1400" height="350" />
+  <img src="https://i.pinimg.com/736x/3b/52/5b/3b525b51ce6d6b91a555a80fcf41597d.jpg" alt="Kirby eating an endless stream of data" width="1500" height="300" />
 </p>
 
 <h3 align="center">Stats:</h3>
@@ -71,5 +71,7 @@
 </p>
 
 
-<img src="/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/31/3b/bc/313bbcac825384bd0a7c2ced591f3a30.gif" alt="Kirby eating an endless stream of data" width="1500"  />
+</p>
 <h3 align="center">"Coding is not just a skill, it's an art!"</h3>
